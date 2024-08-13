@@ -1,4 +1,4 @@
-# 👋 Olá, sou [Guilherme Bandeira]
+# 👋 Olá, sou Guilherme Bandeira
 
 🚀 **Desenvolvedor Java | Back-End | Spring**  
 Estudante de Sistemas de Informação com um forte interesse em desenvolvimento back-end. Tenho experiência em Java e no uso do framework Spring para criar soluções eficientes e escaláveis. No meu GitHub, você encontrará projetos que refletem minha paixão por tecnologia e meu compromisso com o aprendizado contínuo.
@@ -9,11 +9,22 @@ Estudante de Sistemas de Informação com um forte interesse em desenvolvimento 
 - **Ferramentas:** Git, GitHub Desktop
 
 ## 📊 **Estatísticas do GitHub**
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevGuiBan&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiBan&layout=compact&theme=radical)
 
-![Gráfico de contribuições diárias](https://github-readme-streak-stats.herokuapp.com/?user=DevGuiBan&theme=radical)
-![Contribuições anuais](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevGuiBan&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiBan&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGuiBan&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevGuiBan&theme=radical" />
+</div>
 
 ## 📫 **Vamos nos conectar**
 - [LinkedIn](https://www.linkedin.com/in/bandeira-guilherme/)
