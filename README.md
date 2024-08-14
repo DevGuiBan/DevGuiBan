@@ -12,14 +12,11 @@ Estudante de Sistemas de Informação com um forte interesse em desenvolvimento 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGuiBan&theme=radical" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiBan&layout=compact&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGuiBan&theme=radical" />
 </div>
 
 <div align="center">
