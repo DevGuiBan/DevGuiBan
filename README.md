@@ -30,5 +30,5 @@ Estudante de Sistemas de Informação com um forte interesse em desenvolvimento 
 ---
 
 ### 🌍 Projetos Destacados
-- **[Projeto 1](https://github.com/DevGuiBan/pweb1-Biblioteca):** Projeto de Desenvolvimento de um Sistema de Gerenciamento de Biblioteca Online.
+- **[Biblioteca Online](https://github.com/DevGuiBan/pweb1-Biblioteca):** Projeto de Desenvolvimento de um Sistema de Gerenciamento de Biblioteca Online.
 - **[Projeto 2](link-do-repositorio):** Em breve projeto e descrição do projeto.
