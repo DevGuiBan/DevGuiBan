@@ -34,12 +34,12 @@ Estou cursando Sistemas de Informação com foco em desenvolvimento de back-end.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevGuiBan&theme=radical" alt="Resumo do perfil"/>
 </div>
 
-## 📫 **Vamos nos conectar**
+## 📫 **Contate-me**
 - [LinkedIn](https://www.linkedin.com/in/bandeira-guilherme/)
 - [Email](mailto:guibandeira290@gmail.com)
 
 ---
 
-### 🌍 Projetos Destacados
+### 🌍 Projetos em Destaque
 - **[Biblioteca Online](https://github.com/DevGuiBan/pweb1-Biblioteca):** Sistema de Gerenciamento de Biblioteca Online, desenvolvido para otimizar o controle e a organização de livros e usuários.
 - **[Projeto 2](link-do-repositorio):** Em breve! Detalhes e descrição do projeto.
