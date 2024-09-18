@@ -1,26 +1,37 @@
 # 👋 Olá, sou Guilherme Bandeira
 
-🚀 **Desenvolvedor Java | Back-End | Spring**  
-Estudante de Sistemas de Informação com um forte interesse em desenvolvimento back-end. Tenho experiência em Java e no uso do framework Spring para criar soluções eficientes e escaláveis. No meu GitHub, você encontrará projetos que refletem minha paixão por tecnologia e meu compromisso com o aprendizado contínuo.
+🚀 **Desenvolvedor | Back-End | Spring**
+
+Estou cursando Sistemas de Informação com foco em desenvolvimento de back-end. Com conhecimento em Java e no framework Spring, meu objetivo é desenvolver soluções eficazes e que possam ser escalonadas. O meu GitHub espelha minha paixão pela tecnologia e minha dedicação ao aprendizado constante.
 
 ## 🔧 **Habilidades**
-- **Linguagens:** Java
-- **Frameworks:** Spring
-- **Ferramentas:** Git, GitHub Desktop
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/> Java
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/> PHP
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring"/> Spring
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/> Git  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/> GitHub 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/> PostgreSQL
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/> MySQL
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="NoSQL"/> NoSQL
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/> HTML
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/> CSS
+</div>
 
 ## 📊 **Estatísticas do GitHub**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevGuiBan&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGuiBan&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGuiBan&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiBan&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiBan&layout=compact&theme=radical" alt="Línguas mais usadas"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevGuiBan&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevGuiBan&theme=radical" alt="Resumo do perfil"/>
 </div>
 
 ## 📫 **Vamos nos conectar**
@@ -30,5 +41,5 @@ Estudante de Sistemas de Informação com um forte interesse em desenvolvimento 
 ---
 
 ### 🌍 Projetos Destacados
-- **[Biblioteca Online](https://github.com/DevGuiBan/pweb1-Biblioteca):** Projeto de Desenvolvimento de um Sistema de Gerenciamento de Biblioteca Online.
-- **[Projeto 2](link-do-repositorio):** Em breve projeto e descrição do projeto.
+- **[Biblioteca Online](https://github.com/DevGuiBan/pweb1-Biblioteca):** Sistema de Gerenciamento de Biblioteca Online, desenvolvido para otimizar o controle e a organização de livros e usuários.
+- **[Projeto 2](link-do-repositorio):** Em breve! Detalhes e descrição do projeto.
