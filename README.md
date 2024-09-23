@@ -2,7 +2,7 @@
 
 🚀 **Desenvolvedor | Back-End | Spring**
 
-Estou cursando Sistemas de Informação com foco em desenvolvimento de back-end. Com conhecimento em Java e no framework Spring, meu objetivo é desenvolver soluções eficazes e que possam ser escalonadas. O meu GitHub espelha minha paixão pela tecnologia e minha dedicação ao aprendizado constante.
+Estou cursando Sistemas de Informação com foco em desenvolvimento de back-end. Com conhecimento em Java e no framework Spring, meu objetivo é desenvolver soluções eficazes e que possam ser escalonadas. O meu GitHub espelha meu apreço pela tecnologia e minha dedicação ao aprendizado.
 
 ## 🔧 **Habilidades**
 
