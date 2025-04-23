@@ -20,7 +20,6 @@ Estou cursando Sistemas de Informação com foco em desenvolvimento de back-end.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevGuiBan&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGuiBan&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
